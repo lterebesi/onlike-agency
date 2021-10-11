@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Terebesi Loránd"
 menuText: "メニュー "
 ---
