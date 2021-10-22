@@ -1,8 +1,8 @@
 {
   "name": "gatsby-startbootstrap-agency",
-  "description": "gatsby version of startbootstrap-agency with i18n support",
+  "description": "MugArt",
   "version": "0.1.0",
-  "author": "thundermiracle",
+  "author": "Lorand",
   "bugs": {
     "url": "https://github.com/thundermiracle/gatsby-startbootstrap-agency/issues"
   },
