@@ -9,7 +9,7 @@ portfolios: [
     header: "Minions",
     subheader: "Graphic Design",
     content: "",
-    extraInfo: ["Date: December 2017", "Client: Beata", "Category: Graphic Design"]
+    extraInfo: ["Date: November 2017", "Client: Beata", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
@@ -17,13 +17,13 @@ portfolios: [
     header: "Be Positive",
     subheader: "Graphic Design",
     content: "",
-    extraInfo: ["Date: December 2017", "Client: Veronica", "Category: Graphic Design"]
+    extraInfo: ["Date: December 2015", "Client: Veronica", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Milky Way",
-    subheader: "Identity",
+    subheader: "Graphic Design",
     content: "",
     extraInfo: ["Date: November 2017", "Client: Csilla", "Category: Graphic Design"]
   },
@@ -31,17 +31,17 @@ portfolios: [
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Birthday",
-    subheader: "Identity",
+    subheader: "Graphic Design",
     content: "",
-    extraInfo: ["Date: January 2017", "Client: Alina", "Category: Graphic Design"]
+    extraInfo: ["Date: June 2016", "Client: Alina", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Pattern",
-    subheader: "Website Design",
+    subheader: "Graphic Design",
     content: "",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    extraInfo: ["Date: January 2018", "Client: Beata", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
@@ -49,7 +49,7 @@ portfolios: [
     header: "Nature",
     subheader: "Photography",
     content: "",
-    extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
+    extraInfo: ["Date: January 2017", "Client: Laura", "Category: Photography"]
   }
 ]
 ---

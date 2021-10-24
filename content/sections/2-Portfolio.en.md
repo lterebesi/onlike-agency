@@ -23,7 +23,7 @@ portfolios: [
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Milky Way",
-    subheader: "Identity",
+    subheader: "Graphic Design",
     content: "",
     extraInfo: ["Date: November 2017", "Client: Csilla", "Category: Graphic Design"]
   },
@@ -31,7 +31,7 @@ portfolios: [
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Birthday",
-    subheader: "Identity",
+    subheader: "Graphic Design",
     content: "",
     extraInfo: ["Date: January 2017", "Client: Alina", "Category: Graphic Design"]
   },
@@ -39,9 +39,9 @@ portfolios: [
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Pattern",
-    subheader: "Website Design",
+    subheader: "Graphic Design",
     content: "",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",

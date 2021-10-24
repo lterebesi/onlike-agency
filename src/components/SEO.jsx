@@ -92,7 +92,7 @@ SEO.propTypes = {
 SEO.defaultProps = {
   lang: "en",
   meta: [],
-  keywords: [],
+  keywords: ["Custom designs", "Custom mugs", "Custom t - shirts", "Custom stickers", "Custom posters"],
   description: "",
 };
 
