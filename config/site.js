@@ -6,12 +6,10 @@ module.exports = {
     "custom design",
   ],
   description: "Porcelain mugs and objects, hand-painted with special paint, which last over time. ",
-  author: "Lorand",
+  author: "Mugart",
   trackingId: "UA-119418003-1",
   defaultLang: "en",
   langTextMap: {
     en: "English",
-    ro: "Romana",
-    hu: "Magyar",
   },
 };

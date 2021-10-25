@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Mugart 2021"
+copyright: "Mugart"
 social: {
   facebook: "/Handmade.MugArt/",
 }

@@ -1,7 +1,7 @@
 ---
 header: ""
-subheader: "Welcome To Our Studio!"
+subheader: "You Imagine I Create!"
 imageFileName: "mugart-bg.jpg"
 jumpToAnchor: "Portfolio"
-jumpToAnchorText: "Portfolio"
+jumpToAnchorText: "See More"
 ---
